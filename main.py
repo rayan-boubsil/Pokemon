@@ -6,8 +6,8 @@ def main():
     pygame.init()
     
     # Configuration de la fenêtre
-    LARGEUR = 800
-    HAUTEUR = 600
+    LARGEUR = 1000
+    HAUTEUR = 800
     ecran = pygame.display.set_mode((LARGEUR, HAUTEUR))
     pygame.display.set_caption("Jeu Pokémon")
     
