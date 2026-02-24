@@ -1,0 +1,74 @@
+[
+  {
+    "nom": "Salamèche",
+    "type": "Feu",
+    "pv": 39,
+    "attaque": 52,
+    "defense": 43,
+    "niveau": 5
+  },
+  {
+    "nom": "Carapuce",
+    "type": "Eau",
+    "pv": 44,
+    "attaque": 48,
+    "defense": 65,
+    "niveau": 5
+  },
+  {
+    "nom": "Bulbizarre",
+    "type": "Plante",
+    "pv": 45,
+    "attaque": 49,
+    "defense": 49,
+    "niveau": 5
+  },
+  {
+    "nom": "Pikachu",
+    "type": "Électrik",
+    "pv": 35,
+    "attaque": 55,
+    "defense": 40,
+    "niveau": 5
+  },
+  {
+    "nom": "Évoli",
+    "type": "Normal",
+    "pv": 55,
+    "attaque": 55,
+    "defense": 50,
+    "niveau": 5
+  },
+  {
+    "nom": "Ronflex",
+    "type": "Normal",
+    "pv": 160,
+    "attaque": 110,
+    "defense": 65,
+    "niveau": 10
+  },
+  {
+    "nom": "Dracaufeu",
+    "type": "Feu",
+    "pv": 78,
+    "attaque": 84,
+    "defense": 78,
+    "niveau": 36
+  },
+  {
+    "nom": "Mewtwo",
+    "type": "Psy",
+    "pv": 106,
+    "attaque": 110,
+    "defense": 90,
+    "niveau": 70
+  },
+  {
+    "nom": "Mew",
+    "type": "Psy",
+    "pv": 100,
+    "attaque": 100,
+    "defense": 100,
+    "niveau": 50
+  }
+]
